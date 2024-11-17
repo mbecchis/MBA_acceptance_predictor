@@ -29,7 +29,7 @@ def introduction_page():
     
     # Page content
     st.title("🎓 MBA Admission Predictor - Wharton University")
-    st.image("wharton_image.jpg", use_column_width=True)  # Ensure the correct file name for the image
+    st.image("wharton_image", use_column_width=True)  # Ensure the correct file name for the image
 
     st.subheader("🌟 Introduction")
     st.markdown("""
